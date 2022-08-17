@@ -864,9 +864,6 @@ void dump_instructions
   // add an edge between the function node and the body node, so that
   // the body gets placed beneath the function node.
   out << dot_node_naming.find(name)->second <<  " -> " << name << "_body"
-      << " ["
-      << "style=invis"
-      << "];\n";
 }
                     
 
