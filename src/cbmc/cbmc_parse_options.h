@@ -50,6 +50,9 @@ class optionst;
   OPT_JSON_INTERFACE \
   OPT_SOLVER \
   OPT_STRING_REFINEMENT_CBMC \
+  "(symex-record-coverage)" \
+  OPT_COMPLEXITY_GRAPH \
+  OPT_COMPLEXITY_GRAPH_CBMC \
   OPT_SHOW_GOTO_FUNCTIONS \
   OPT_SHOW_PROPERTIES \
   "(show-symbol-table)(show-parse-tree)" \
